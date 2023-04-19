@@ -1,0 +1,73 @@
+{
+  "1": {
+    "first": "CATHY",
+    "sec": "MOM",
+    "di": [
+      "Mom, can we have a picnic this afternoon?",
+      "Sure, Cathy.  Where should we have it?",
+      "How about the lake?",
+      "That's a great idea.",
+      "What should we pack for lunch?",
+      "I can make ham sandwiches and potato salad.",
+      "Yummy. I love ham sandwiches and potato salad.",
+      "Tell your sisters about the picnic.",
+      "Ok. I think it is going to get hot later today.",
+      "That's good.  It will be a good day for a swim in the lake.",
+      "I'll tell Cindy and Alison to wear their swimsuits.",
+      "Don't forget to pack your life jackets too.",
+      "Ok.  Will Andy be joining us?",
+      "Of course, your brother will be joining us.  Where is he?",
+      "He's taking a nap on the couch.",
+      "Let's wake him up.",
+      "You can wake him up.  I'll get my sisters.",
+      "Andy, wake up.  We're going to the lake."
+    ]
+  },
+  "2": {
+    "first": "JOE",
+    "sec": "MIKE",
+    "di": [
+      "Hi Mike.  What are you doing today?",
+      "Hi Joe.  My family and I are going to the lake.  We're going to have a picnic.",
+      "That sounds like fun.",
+      "Do you want to join us?",
+      "May I?  I would love to join.",
+      "Sure.  We are leaving at 10:30.",
+      "Ok.  Let me ask my parents.  What should I bring?",
+      "You should pack swim trunks and a life jacket.",
+      "Ok.  How about food?",
+      "My parents are going to pack some food.  There will be plenty for you too.",
+      "Thanks.  I'll be back as soon as possible.",
+      "Try to come back before 10:30.",
+      "I will.  If I can't go, I will call you.",
+      "I hope you can come with us.",
+      "Me too.  I have no plans today.",
+      "See you soon.",
+      "I hope so!"
+    ]
+  },
+  "3": {
+    "first": "CATHY",
+    "sec": "DAD",
+    "di": [
+      "Dad, what are we doing today?",
+      "Cathy, it's a surprise.",
+      "Is it a special occasion?",
+      "No.  Just a short family trip.",
+      "Does Mom know?",
+      "Of course.  It was her idea.",
+      "Where is Mom?",
+      "She is at the store getting things for our trip.",
+      "I'm so curious.  Can you please tell me?",
+      "No.  You have to be patient.",
+      "Ok.  Can I help you with anything?",
+      "Sure.  Why don't you pack your swimsuit and life jacket?",
+      "I know what we're doing!",
+      "You do?",
+      "Yes.  We're going to the lake!",
+      "How did you know?",
+      "You asked me to pack a swimsuit and a life jacket.  Also, you are pulling out the canoe from the garage.",
+      "It looks like I can't keep a secret."
+    ]
+  }
+}
