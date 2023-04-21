@@ -1,6 +1,6 @@
 import React from 'react';
 // import Listen from './Images/Listen.png';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import './Home.css';
 
 function Home() {
@@ -17,7 +17,10 @@ function Home() {
                             magnam a suscipit ipsa quas alias ab consequatur possimus exercitationem, 
                             et saepe quod nulla earum?
                         </p>
-                        <button className='btn'>Click Here</button>
+                        <Link to='' className='btn'>
+                            <button className='btn'>Listen Here</button>
+                        </Link>
+                        
                     </div>
                 </div>
             </div>
@@ -33,7 +36,7 @@ function Home() {
                             magnam a suscipit ipsa quas alias ab consequatur possimus exercitationem, 
                             et saepe quod nulla earum?
                         </p>
-                        <button className='btn'>Click Here</button>
+                        <button className='btn'>Speak Here</button>
                     </div>
                 </div>
             </div>
@@ -49,8 +52,9 @@ function Home() {
                             magnam a suscipit ipsa quas alias ab consequatur possimus exercitationem, 
                             et saepe quod nulla earum?
                         </p>
-                        <button cl
-                        assName='btn'>Click Here</button>
+                        <Link to='/Reading' className='btn'>
+                            <button className='btn'>Read Here</button>
+                        </Link>
                     </div>
                 </div>
             </div>
@@ -66,7 +70,7 @@ function Home() {
                             magnam a suscipit ipsa quas alias ab consequatur possimus exercitationem, 
                             et saepe quod nulla earum?
                         </p>
-                        <button className='btn'>Click Here</button>
+                        <button className='btn'>Write Here</button>
                     </div>
                 </div>
             </div>

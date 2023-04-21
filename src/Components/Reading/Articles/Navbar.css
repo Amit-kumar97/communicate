@@ -1,8 +1,11 @@
-.nav{
-    background-color: aliceblue;
-    border-color: red;
-    border-bottom: 2px solid black;
+*{
+    padding: 0;
+    margin: 0;
 }
-.line{
-    
+.nav{
+    background-color: rgba(40, 82, 69, 0.5);
+}
+.navbar-brand{
+    background-color: rgba(40, 82, 69, 0.5);
+    font-size: 40px;
 }
